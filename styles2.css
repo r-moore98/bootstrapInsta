@@ -1,0 +1,24 @@
+.insta{
+    height: 35px;
+    padding-top: 10px;
+}
+.imagen-Ig {
+    display: flex;
+}
+.col-sm-4 > img{
+    width: 100%;
+}
+.botones{
+    margin-left: 43%;
+}
+.padre{
+    width: 400px;
+}
+a:link, a:visited, a:active, a:hover{
+    text-decoration:none;
+    color: black;
+}
+.desc{ font-size: 14px;}
+body{background-color: rgb(218, 218, 218);}
+.post{background-color: white; margin-bottom: 30px;}
+.col{color: rgb(139, 139, 139);}
